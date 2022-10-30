@@ -40,7 +40,7 @@ options.forEach((option) => {
                     playerPoints.innerHTML = pPoints + 1;
 
             }
-        }, 900);
+        }, 200);
 
     });
 });
